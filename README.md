@@ -16,3 +16,6 @@ date: '2023-05-24'
 <h1 id="how-can-we-cure-cancer">How can we cure cancer?</h1>
 <p>A possible way to cure cancer is not by trying to kill the cancer cells directly is to kill the cells indirectly. To kill the cells indirectly, a biomedical engineer can attempt to strengthen the human cells to kill the cancer cells indirectly instead of directly using chemotherapy. While the risk of the cancer cells being strengthened by this treatment, it can be avoided by instead extracting cells, treating them with resources to reproduce, and then injecting the cells back into the patients body, to fight the cancer cells. Tumors can be a tougher challenge. While tumors can be removed surgically, the surgery can be expensive. This is where modified human cells can come in. The <em>BRCA1</em> and <em>BRCA2</em> chromosomes fight tumors, and when they become damaged and the body cannot fix the chromosomes, tumors are more likely to form.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTI4NzM4MjA4Ml19
+-->
