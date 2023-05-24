@@ -10,4 +10,5 @@
 <h1 id="melanoma-is-a-form-of-cancer-attacking-the-skin.">Melanoma is a form of cancer attacking the skin.</h1>
 <p>Melanoma is caused when the body cannot produce enough melanocytes, the cells that produce the melanin pigment, causing the dark-brown appearance of melanoma. Melanoma is the most severe form of skin cancer. Although rare, it can manifest outside of the skin, such as in the eye, throat, or nose. Melanoma can spread to other parts of the body, causing the body to decompose overtime.</p>
 <h1 id="how-can-we-cure-cancer">How can we cure cancer?</h1>
+<p>A possible way to cure cancer is not by trying to kill the cancer cells directly is to kill the cells indirectly. To kill the cells indirectly, a biomedical engineer can attempt to strengthen the human cells to kill the cancer cells indirectly instead of directly using chemotherapy. While the risk of the cancer cells being strengthened by this treatment, it can be avoided by instead extracting cells, treating them with resources to reproduce, and</p>
 
